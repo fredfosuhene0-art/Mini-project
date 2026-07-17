@@ -1,11 +1,11 @@
 # Mini-project
 ## Smart Device Management System
 
-##**Course:** Object Oriented Programming
-##**Built by:** Fosuhene Fred
-##**Class:** EL 1B
-##**Lecturer:** Dr. Matthew Cobbinah
-##**Assignment:** OOP Mini Project
+##Course: Object Oriented Programming
+##Built by: Fosuhene Fred
+##Class: EL 1B
+##Lecturer: Dr. Matthew Cobbinah
+##Assignment: OOP Mini Project
 
 ##  Project Overview
 
